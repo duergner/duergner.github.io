@@ -17,3 +17,5 @@ Later when we need to display all messages for a specific geographic region we a
 That solution proved to be way faster than using 2i indexes on the geohash strings like the first naive implementation did.
 
 During the next posts I'll dive a little deeper into the architecture of the solution we built by highlighting some of the aspects.
+
+{% include twitter_share.html %}
