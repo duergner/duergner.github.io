@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First steps with Riak 2.0 CRDTs
+permalink: riak-crdt-part-0
 ---
 
 Lately I was working on a project building a mobile, location-based messaging solution - to be more precisely building the backend for native Android and iOS clients (as well as a web client version).
