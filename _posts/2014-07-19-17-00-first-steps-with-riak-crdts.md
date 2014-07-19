@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Playing with Riak 2.0 CRDTs - Part 0: "Introduction"
+title: Playing with Riak 2.0 CRDTs - Part 0\: "Introduction"
 permalink: riak-crdt-part-0
 ---
 
