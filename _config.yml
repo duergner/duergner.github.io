@@ -7,13 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Michael Duergner
-url:              https://duergner.github.io
+url:              http://michael.duergner.com
 paginate:         1
 baseurl:          /
 author:
   name:           Michael Duergner
-  url:            https://duergner.github.io
-  email:          michael@sprucehill.io
+  url:            http://michael.duergner.com
+  email:          michael@duergner.com
 
 # Custom vars
 version:          1.0.0
