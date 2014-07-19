@@ -6,17 +6,17 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Michael Duergner
+tagline:          Mostly \#Java, \#CoffeeScript, \#Spring and \#AngularJS
+url:              https://duergner.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Michael Duergner
+  url:            https://duergner.github.io
+  email:          michael@sprucehill.io
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/duergner/duergner.github.io
