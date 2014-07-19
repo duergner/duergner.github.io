@@ -11,4 +11,4 @@ I started writing code with Java and the Spring Framework about nearly 15 years 
 
 Lately I had some closer looks at CoffeeScript, NodeJS and AngularJS especially for rapid prototyping and showcasing new ideas.
 
-You can find me on <a href="https://github.com/duergner" target="_blank">GitHub</a> or <a href="https://twitter.com/duergner" target="_blank">Twitter</a> or just email me at <a href="mailto:michael@duergner.com" target="_blank">michael@duergner.com</a>.
+You can find me on <a href="https://github.com/duergner" target="_blank">GitHub</a> or <a href="https://twitter.com/duergner" target="_blank">Twitter</a> or just email me at <a href="mailto:michael@duergner.com">michael@duergner.com</a>.
