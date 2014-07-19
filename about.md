@@ -5,7 +5,7 @@ title: About
 
 ![That's me!](/assets/me.png)
 
-Hi there, my name is Michael Duergner; I'm working as a freelance software developer, software architect and software project manager. You can find me professional info over at http://sprucehill.io
+Hi there, my name is Michael Duergner; I'm working as a freelance software developer, software architect and software project manager. You can find me professional info over at <a href="http://sprucehill.io" target="_blank">http://sprucehill.io</a>
 
 I started writing code with Java and the Spring Framework about nearly 15 years ago; I had some glimpses with Grails and Groovy (which I really like for the stuff that Java is missing).
 
