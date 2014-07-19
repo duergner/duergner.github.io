@@ -7,7 +7,6 @@ permalink:        pretty
 
 # Setup
 title:            Michael Duergner
-tagline:          Mostly \#Java, \#CoffeeScript, \#Spring and \#AngularJS
 url:              https://duergner.github.io
 paginate:         1
 baseurl:          /
@@ -20,3 +19,8 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/duergner/duergner.github.io
+
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
