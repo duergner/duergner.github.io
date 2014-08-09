@@ -212,4 +212,6 @@ I plan to add another blog post about utilizing Spring Cache Abstraction togethe
 
 So far for part 1, you'll find the code example at [GitHub](https://github.com/duergner/LocationBasedMessaging); I'll extend this code as the blog series continues and you will find the code specific for this post at the branch *messages-with-location-index*.
 
-Feel free to comment or contact me with any questions, comments or improvements. 
+Feel free to comment or contact me with any questions, comments or improvements.
+ 
+{% include twitter_share.html %}
