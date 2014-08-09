@@ -215,3 +215,5 @@ So far for part 1, you'll find the code example at [GitHub](https://github.com/d
 Feel free to comment or contact me with any questions, comments or improvements.
  
 {% include twitter_share.html %}
+
+{% include comments.html %}
