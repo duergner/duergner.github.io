@@ -2,6 +2,7 @@
 layout: post
 title: Playing with Riak 2.0 CRDTs - Part 1 "Messages with location index"
 permalink: riak-crdt-part-1-messages-with-location-index
+commentIssueId: 1
 ---
 
 Part 1 of the Riak 2.0 CRDTs will introduce the demo application and go into more detail about the first model class. To show the details of what we built I choose to use a simple Twitter clone example.
