@@ -170,7 +170,7 @@ Whenever we delete an object, we also need to remove it's *id* from any associat
     }
 ```
 
-As Riak will only allow remove SetUpdate calls when a *Context* is supplied, we need to call a *FetchSet* before to obtain the *Context*.
+As ~~Riak~~ the **Riak Java Client** (as pointed out by @russeldb) will only allow remove SetUpdate calls when a *Context* is supplied, we need to call a *FetchSet* before to obtain the *Context*.
 
 So and now, last but not least, we'll have a look at search call which will actually use one of the indices we just built. Our *MessageRepository* offers a method to find all *Messages* which are within a set of GeoHashes.
  
