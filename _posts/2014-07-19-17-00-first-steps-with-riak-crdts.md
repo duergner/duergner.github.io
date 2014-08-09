@@ -19,5 +19,3 @@ That solution proved to be way faster than using 2i indexes on the geohash strin
 During the next posts I'll dive a little deeper into the architecture of the solution we built by highlighting some of the aspects.
 
 {% include twitter_share.html %}
-
-{% include comments.html %}
