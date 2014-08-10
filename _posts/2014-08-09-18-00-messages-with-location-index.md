@@ -51,11 +51,14 @@ For the first iteration we'll simple serialize our objects using [Jackson](https
 public <S extends T> S save(S entity) {
     BinaryValue oldValue = entity.binaryValue;
     String id = entity.getId();
-    StoreValue.Builder builder =
-            (null == id ? new StoreValue.Builder(namespace())
-                    : new StoreValue.Builder(location(entity)))
-                    .withOption(StoreValue.Option.RETURN_BODY,
-                            Boolean.TRUE);
+        StoreValue.Builder builder = new StoreValue.Builder(entity).withOption(
+                StoreValue.Option.RETURN_BODY,Boolean.TRUE);
+        if (null == id) {
+            builder.withNamespace(namespace());
+        }
+        else {
+            builder.withLocation(location(entity));
+        }
     if (null != entity.vClock) {
         builder.withVectorClock(entity.vClock);
     }
@@ -106,6 +109,8 @@ public T findOne(String id) {
     }
 }
 ```
+
+**\[Update\]** There was an error in the save method with using the StoreValue.Builder constructor. I just fixed this above and in the code samples at GitHub.**\[/Update\]**
 
 Whenever the object passed to save already has its *id* property set we construct a *Location* otherwise we pass it on to Riak to create an id by just using the desired *Namespace*. The *vClock* is attached whenever present, i.e. when the object has been read before and this should be an update. After successfully saving the entity we set *id*, *vClock* and *binaryValue* on the result object.
 
