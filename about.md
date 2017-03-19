@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="/assets/me_round.pmg" class="about" alt="Michael Duergner" />
+<img src="/assets/me_round.png" class="about" alt="Michael Duergner" />
 
 Hi there, I'm Michael Duergner. You'll find a short biography below.
  
