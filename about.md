@@ -11,6 +11,6 @@ Michael joined Zalando in May 2016 when they acquired his startup AMAZE. Prior t
 
 His past jobs also included being CTO at PocketsUnited GmbH, senior software engineer at Motorola Mobility Inc. as well as software engineer at Aloqa GmbH.
 
-Michael holds a diploma in computer science from Ludwig-Maximilians-University Munich as well as a honors degree in technology management from the Technical University Munich & Ludwig-Maximilians-University Munich. He also spent a term abroad at Carnegie Mellon University Pittsburgh as visiting research scholar.
+Michael holds a masters degree in computer science from Ludwig-Maximilians-University Munich as well as a honors degree in technology management from the Technical University Munich & Ludwig-Maximilians-University Munich. In addition Michael spent a term abroad at Carnegie Mellon University Pittsburgh as a visiting research scholar.
  
-You can find Michael on <a href="https://github.com/duergner" target="_blank">GitHub</a>, <a href="https://twitter.com/duergner" target="_blank">Twitter</a>, <a href="https://facebook.com/duergner" target="_blank">Facebook</a> or just email him at <a href="mailto:michael@duergner.com" target="_blank">michael@duergner.com</a>.
+You can find Michael on <a href="https://github.com/duergner" target="_blank">GitHub</a>, <a href="https://twitter.com/duergner" target="_blank">Twitter</a>, <a href="https://facebook.com/duergner" target="_blank">Facebook</a> or via email at <a href="mailto:michael@duergner.com" target="_blank">michael@duergner.com</a>.
