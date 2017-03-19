@@ -9,7 +9,7 @@ Michael Duergner is a software architect and seasoned software developer. His cu
 
 Michael joined Zalando in May 2016 when they acquired his startup AMAZE. Prior to starting AMAZE, Michael used to work as a freelance software developer and architect. His clients included wishdrum ag form Switzerland where he served as VP Engineering & DevOps as well as Netjay GmbH & Co KG where he was engaged as a software engineer.
 
-His past jobs also included being CTO at PocketsUnited GmbH, senior software engineer at Motorola Mobility Inc. as well as software engineer at Aloqa GmbH.
+His past jobs also include being CTO at PocketsUnited GmbH, senior software engineer at Motorola Mobility Inc. as well as software engineer at Aloqa GmbH.
 
 Michael holds a masters degree in computer science from Ludwig-Maximilians-University Munich as well as a honors degree in technology management from the Technical University Munich & Ludwig-Maximilians-University Munich. In addition Michael spent a term abroad at Carnegie Mellon University Pittsburgh as a visiting research scholar.
  
