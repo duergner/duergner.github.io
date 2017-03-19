@@ -3,12 +3,16 @@ layout: page
 title: About
 ---
 
-![That's me!](/assets/me.png)
+![That's me!](/assets/me_round.png)
 
-Hi there, my name is Michael Duergner; I'm working as a freelance software developer, software architect and software project manager. You can find me professional info over at <a href="http://sprucehill.io" target="_blank">http://sprucehill.io</a>
+Hi there, I'm Michael Duergner. You'll find a short biography below.
+ 
+Michael Duergner is a software architect and seasoned software developer. His current role is being a engineering lead at <a href="https://tech.zalando.com" target="_blank">Zalando</a>, located in Helsinki, Finland.
 
-I started writing code with Java and the Spring Framework about nearly 15 years ago; I had some glimpses with Grails and Groovy (which I really like for the stuff that Java is missing).
+Michael joined Zalando in May 2016 when they acquired his startup AMAZE. Prior to starting AMAZE Michael used to work as freelance software developer and architect. His clients included wishdrum ag form Switzerland where he served as VP Engineering & DevOps as well Netjay GmbH & Co KG where we was engaged as software engineer.
 
-Lately I had some closer looks at CoffeeScript, NodeJS and AngularJS especially for rapid prototyping and showcasing new ideas.
+His past jobs also included being CTO at PocketsUnited GmbH, senior software engineer at Motorola Mobility Inc. as well as software engineer at Aloqa GmbH.
 
-You can find me on <a href="https://github.com/duergner" target="_blank">GitHub</a>, <a href="https://twitter.com/duergner" target="_blank">Twitter</a> or just email me at <a href="mailto:michael@duergner.com">michael@duergner.com</a>.
+Michael holds a diploma in computer science from Ludwig-Maximilians-University Munich as well as a honors degree in technology management from the Technical University Munich & Ludwig-Maximilians-University Munich. He also spent a term abroad at Carnegie Mellon University Pittsburgh as visiting research scholar.
+ 
+You can find Michael on <a href="https://github.com/duergner" target="_blank">GitHub</a>, <a href="https://twitter.com/duergner" target="_blank">Twitter</a>, <a href="https://facebook.com/duergner">Facebook</a> or just email him at <a href="mailto:michael@duergner.com">michael@duergner.com</a>.
