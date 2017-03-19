@@ -15,4 +15,4 @@ His past jobs also included being CTO at PocketsUnited GmbH, senior software eng
 
 Michael holds a diploma in computer science from Ludwig-Maximilians-University Munich as well as a honors degree in technology management from the Technical University Munich & Ludwig-Maximilians-University Munich. He also spent a term abroad at Carnegie Mellon University Pittsburgh as visiting research scholar.
  
-You can find Michael on <a href="https://github.com/duergner" target="_blank">GitHub</a>, <a href="https://twitter.com/duergner" target="_blank">Twitter</a>, <a href="https://facebook.com/duergner">Facebook</a> or just email him at <a href="mailto:michael@duergner.com">michael@duergner.com</a>.
+You can find me on <a href="https://github.com/duergner" target="_blank">GitHub</a>, <a href="https://twitter.com/duergner" target="_blank">Twitter</a>, <a href="https://facebook.com/duergner">Facebook</a> or just email me at <a href="mailto:michael@duergner.com">michael@duergner.com</a>.
