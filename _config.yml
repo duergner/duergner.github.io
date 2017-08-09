@@ -24,6 +24,6 @@ github:
 
 pages_list:
   About: '/about'
-#  Talks: '/talks'
+  Talks: '/talks'
   Archive: '/archive'
   Feed: '/atom.xml'
