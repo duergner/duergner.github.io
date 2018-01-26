@@ -8,7 +8,8 @@ the talk has happened.
 
 ## Upcoming
 
-Nothing scheduled yet. Stay tuned.
+* **2018-02-08:** [Frontend Portugal](https://www.meetup.com/frontend-portugal/) talking at the [Frontend Fundão](https://www.meetup.com/frontend-portugal/events/246965880/)
+about *Mosaic - Microservices for the Frontend* developed by [Zalando](https://tech.zalando.com).
 
 ## Previous
 
