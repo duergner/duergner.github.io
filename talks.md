@@ -8,10 +8,12 @@ the talk has happened.
 
 ## Upcoming
 
-* **2018-02-08:** [Frontend Portugal](https://www.meetup.com/frontend-portugal/) talking at the [Frontend Fundão](https://www.meetup.com/frontend-portugal/events/246965880/)
-about *Mosaic - Microservices for the Frontend* developed by [Zalando](https://tech.zalando.com).
+Nothing scheduled at the moment.
 
 ## Previous
+
+* **2018-02-08:** [Frontend Portugal](https://www.meetup.com/frontend-portugal/) talking at the [Frontend Fundão](https://www.meetup.com/frontend-portugal/events/246965880/)
+about *Mosaic - Microservices for the Frontend* developed by [Zalando](https://tech.zalando.com).
 
 * **2017-10-04:** [kubernetes Finland](https://www.meetup.com/Kubernetes-Finland/) talking at the [October meetup](https://www.meetup.com/Kubernetes-Finland/events/242096170/)
 about Kubernetes at [Zalando](https://tech.zalando.com).
