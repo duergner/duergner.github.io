@@ -5,7 +5,7 @@ title: About
 
 <img src="/assets/michael_duergner.png" class="about" alt="Michael Duergner" />
 
-Michael Duergner is a software architect and seasoned software developer. His current role is being an engineering lead at <a href="https://tech.zalando.com" target="_blank">Zalando</a>, located in Helsinki, Finland.
+Michael Duergner is an engineering manager, software architect and seasoned software developer. He is currently in between jobs. His previous role was as engineering lead with <a href="https://tech.zalando.com" target="_blank">Zalando</a>. He worked for the company in the offices in Helsinki, Finland, Lisbon, Portugal and Dortmund, Germany.
 
 Michael joined Zalando in May 2016 when they acquired his startup AMAZE. Prior to starting AMAZE, Michael used to work as a freelance software developer and architect. His clients included wishdrum ag form Switzerland where he served as VP Engineering & DevOps as well as Netjay GmbH & Co KG where he was engaged as a software engineer.
 
