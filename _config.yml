@@ -14,7 +14,7 @@ paginate:         1
 baseurl:          /
 author:
   name:           Michael Duergner
-  url:            http://michael.duergner.com
+  url:            https://michael.duergner.com
   email:          michael@duergner.com
 
 # Custom vars
