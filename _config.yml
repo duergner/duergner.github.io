@@ -2,7 +2,7 @@
 markdown:         redcarpet
 redcarpet:
   extensions: ["strikethrough"]
-pygments:         true
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
