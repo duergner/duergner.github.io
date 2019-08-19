@@ -8,7 +8,7 @@ the talk has happened.
 
 ## Upcoming
 
-* **2019-08-27:** [Web Engineering Düsseldorf](https://www.meetup.com/Web-Engineering-Duesseldorf/) talking at the [4 x Lightning Talks](https://www.meetup.com/Web-Engineering-Duesseldorf/events/264005060/)
+* **2019-08-27:** [Web Engineering Düsseldorf](https://www.meetup.com/Web-Engineering-Duesseldorf/) talking at the [August meetup](https://www.meetup.com/Web-Engineering-Duesseldorf/events/264005060/)
 about *Building and leading high performance engineering teams*.
 
 ## Previous
