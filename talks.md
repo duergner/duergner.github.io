@@ -8,10 +8,12 @@ the talk has happened.
 
 ## Upcoming
 
-* **2019-08-27:** [Web Engineering Düsseldorf](https://www.meetup.com/Web-Engineering-Duesseldorf/) talking at the [August meetup](https://www.meetup.com/Web-Engineering-Duesseldorf/events/264005060/)
-about *Building and leading high performance engineering teams*.
+Nothing scheduled at the moment.
 
 ## Previous
+
+* **2019-08-27:** [Web Engineering Düsseldorf](https://www.meetup.com/Web-Engineering-Duesseldorf/) talking at the [August meetup](https://www.meetup.com/Web-Engineering-Duesseldorf/events/264005060/)
+about *Building and leading high performance engineering teams*. ([Google Slides](https://docs.google.com/presentation/d/1LA20VzDBg0iiS51fMK-PXYJjt5wnqHawWunYmYEWbU8/edit?usp=sharing) / [PDF](https://drive.google.com/open?id=1o-FxmeAATGI8Cxx3BrgYQcYaRnaSzhN6))
 
 * **2018-02-08:** [Frontend Portugal](https://www.meetup.com/frontend-portugal/) talking at the [Frontend Fundão](https://www.meetup.com/frontend-portugal/events/246965880/)
 about *Mosaic - Microservices for the Frontend* developed by [Zalando](https://tech.zalando.com).
